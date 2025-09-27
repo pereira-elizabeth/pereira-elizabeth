@@ -41,7 +41,7 @@
 
 ---
 
-📫 **Get in touch**: [LinkedIn](https://www.linkedin.com/in/elizabeth-pereira) | [Email](mailto:your.email@example.com)
+📫 **Get in touch**: [LinkedIn](https://www.linkedin.com/in/elizabeth-pereira) | [Email](elizabeth.pereira@aalto.fi)
 
 
 <!--
