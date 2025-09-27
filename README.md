@@ -15,7 +15,7 @@
 ---
 
 ## 📂 Highlight Projects
-- [**Hamiltonian-learning-using-neural-networks**](https://github.com/pereira-elizabeth/Hamiltonian-learning-using-neural-networks)  
+- [**hamiltonian-ml**](https://github.com/pereira-elizabeth/Hamiltonian-learning-using-neural-networks)  
   Neural networks for predicting onsite energies, LDOS comparison, and fidelity vs noise analysis.
 
 - [**aah-2d-hermitian**](https://github.com/pereira-elizabeth/2D-Hermitian-AAH-model)  
