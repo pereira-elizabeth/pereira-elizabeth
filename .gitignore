@@ -1,0 +1,14 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Build/exports if you later add images or a small site
+_site/
+dist/
+build/
+*.log
+
