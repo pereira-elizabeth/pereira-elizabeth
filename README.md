@@ -18,7 +18,7 @@
 - [**Hamiltonian-learning-using-neural-networks**](https://github.com/pereira-elizabeth/Hamiltonian-learning-using-neural-networks)  
   Neural networks for predicting onsite energies, LDOS comparison, and fidelity vs noise analysis.
 
-- [**2D-Hermitian-AAH-model**](https://github.com/pereira-elizabeth/2D-Hermitian-AAH-model)  
+- [**aah-2d-hermitian**](https://github.com/pereira-elizabeth/2D-Hermitian-AAH-model)  
   Minimal, safe-to-share implementation of the 2D Aubry–André–Harper model.
 
 - [**Superlattice-AAH-NonHermitian**](https://github.com/pereira-elizabeth/Superlattice-AAH-NonHermitian)  
