@@ -21,7 +21,7 @@
 - [**aah-2d-hermitian**](https://github.com/pereira-elizabeth/2D-Hermitian-AAH-model)  
   Minimal, safe-to-share implementation of the 2D Aubry–André–Harper model.
 
-- [**Superlattice-AAH-NonHermitian**](https://github.com/pereira-elizabeth/Superlattice-AAH-NonHermitian)  
+- [**nonhermitian-superlattice**](https://github.com/pereira-elizabeth/Superlattice-AAH-NonHermitian)  
   Parallelized SLURM study of non-Hermitian superlattices, biorthogonal IPR analysis.
 
 ---
