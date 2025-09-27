@@ -15,11 +15,12 @@
 ---
 
 ## 📂 Highlight Projects
-- [**hamiltonian-ml**](https://github.com/pereira-elizabeth/hamiltonian-ml)  
-  Neural networks for predicting onsite energies, LDOS comparison, and fidelity vs noise analysis.
 
 - [**aah-2d-hermitian**](https://github.com/pereira-elizabeth/aah-2d-hermitian)  
   Minimal, safe-to-share implementation of the 2D Aubry–André–Harper model.
+  
+- [**hamiltonian-ml**](https://github.com/pereira-elizabeth/hamiltonian-ml)  
+  Neural networks for predicting onsite energies, LDOS comparison, and fidelity vs noise analysis.
 
 - [**nonhermitian-superlattice**](https://github.com/pereira-elizabeth/nonhermitian-superlattice)  
   Parallelized SLURM study of non-Hermitian superlattices, biorthogonal IPR analysis.
