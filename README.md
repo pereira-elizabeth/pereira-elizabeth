@@ -1,7 +1,7 @@
 # Hi, I am Elizabeth Pereira 👋
 
 🎓 Doctoral Researcher in **Theoretical Physics & Photonics** (Aalto University)  
-💡 Building bridges between **condensed matter theory** and **machine learning**  
+💡 Building bridges between **condensed matter theory**, **integrated photonics** and **machine learning**  
 🌍 Open to opportunities in **R&D (Photonics, AI/ML, Quantum technologies)**
 
 ---
